@@ -15,7 +15,7 @@ Jupyter Notebook
 ### 🔧 Instalação
 
 1. Baixe a pasta "Knn"
-    *Nela possui
+    * Nela possui
       Código fonte
       Arquivo com os dados que serão analisados 
       Gráficos com o resultado da análise
