@@ -32,12 +32,8 @@ Jupyter Notebook
 * **Silas Santos Moura** - *Desenvolvimento* - [desenvolvedor](https://www.instagram.com/_s1l4s_/)
 * **Luiz Carlos Abreu Neves dos Santos** - *Documentação* - [documentação](https://www.instagram.com/luizcarlos1s/)
 
-## 🎁 Expressões de gratidão
+## 🎁 Agradecimentos
 
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
-
-
+* Graças a Deus passei apenas 4 horas resolvendo bugs 😎.
+  
 ---
