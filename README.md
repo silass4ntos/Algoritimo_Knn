@@ -33,11 +33,4 @@ Jupyter Notebook
 ## ✒️ Autores
 
 * **Silas Santos Moura** - *Desenvolvimento* - [desenvolvedor](https://www.instagram.com/_s1l4s_/)
-* **Luiz Carlos Abreu Neves dos Santos** - *Documentação* - [documentação](https://www.instagram.com/luizcarlos1s/)
-
-## 🎁 Agradecimentos
-
-* Graças a Deus passei apenas 4 horas resolvendo bugs 😎 (Silas Santos).
-* "OBRIGADO PAI, O SENHOR É MEU PASTOR E SALVADOR!" (Luiz Carlos).
-  
 ---
